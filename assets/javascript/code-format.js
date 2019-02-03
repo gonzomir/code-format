@@ -23,7 +23,7 @@
 				wp.editor.RichTextToolbarButton,
 				{
 					icon: 'editor-code',
-					title: __( 'Code', 'format-code' ),
+					title: __( 'Code' ),
 					onClick: onToggle,
 					isActive: props.isActive,
 				}
